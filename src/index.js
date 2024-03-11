@@ -39,4 +39,7 @@ async function generate(params = {}) {
   return results
 }
 
+// test
+console.log('test')
+
 module.exports = generate
